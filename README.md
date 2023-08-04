@@ -5,6 +5,8 @@ Este proyecto es un juego llamado "Toques Famas". Es un juego de lógica y adivi
 ## Requisitos
 
 - Python 3
+- matplotlib
+- pandas
 
 ## Instalación
 
